@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @N0T-THE-F0X.
+- 👀 I’m interested in rust and python.
+- 🌱 I’m currently learning rust, python, html, css, java, javasctipt, pyscript and C.
+- 💞️ I’m looking to collaborate on any project icould halp on.
+- 📫 You can reach out to me here on git hub or at fox11sweet@gmail.com
